@@ -13,7 +13,7 @@ git clone https://github.com/awcowo006/ntlm-hash-demo.git
 cd ntlm-hash-demo
 
 🔧 Prerequisites
-Windows VM (2012 or newer)
+Windows VM (2012)
 
 Kali Linux VM
 
